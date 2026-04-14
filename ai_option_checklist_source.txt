@@ -1,0 +1,49 @@
+Final Project Submission Checklist
+Congratulations on finishing the Front-End Development Capstone Project!
+Follow the checklist below to verify that your project meets all requirements before submission. Submit your work through either Option 1: AI-Graded Submission and Evaluation or Option 2: Peer-Graded Submission and Evaluation, depending on the submission path you choose for project evaluation.
+
+Follow the submission checklist below if you are proceeding with Option 1: AI-Graded Submission and Evaluation:
+
+You will be marked as per the following tasks (30 points):
+
+Task 1: Upload a screenshot named navbar_design.png that shows the elements of the Navigation Bar, including Appointment, Login, and Sign Up.(2 points) Task 2: Upload a screenshot named signup_form_design.png that shows the elements of the Sign-Up form, including Role, Name, Email, Phone, password, etc.(2 points) Task 3: Upload a screenshot named login_form_design.png that shows the Login form elements, including Email and Password.(2 points) Task 4: Submit the public GitHub URL of the README.md file that contains the project name details and setup instructions.(1 point) Task 5: Submit the public GitHub repository URL of the Sign_Up.jsx file that invokes the registration API to register a new user.(1 point) Task 6: Submit the public GitHub repository URL of the Login.jsx file that invokes the login authentication API to authenticate a user.(1 point) Task 7: Submit the public GitHub repository URL of the Navbar.jsx file that implements logout functionality.(1 point) Task 8: Submit the public GitHub repository URL of the FindDoctorSearch.jsx file that implements doctor search functionality in the Appointment Booking component.(1 point) Task 9: Submit the public GitHub repository URL of your App.jsx file showing the Notification component is integrated for application-wide visibility.(1 point) Task 10: Submit the public GitHub repository UR of your AppointmentFormIC.jsx file, which must include only the Name and Phone Number fields.(1 point) Task 11: Submit the public GitHub repository URL of your GiveReviews.jsx file that shows review form elements and post‑submission disabling behaviour. (2 points) Task 12: Submit the public GitHub repository URL of your ProfileCard.jsx file that shows the profile card UI and edit form.(1 point) Task 13: Please provide the terminal output, saved as build, showing the details of the production build.(1 point) Task 14: Submit the public GitHub repository URL of your index.html that shows SEO meta tags.(1 point) Task 15 : Upload a screenshot named launch.png that clearly displays the landing page of your project. The screenshot must include the deployment URL in the browser's address bar and must visibly showcase the project title , a brief description or tagline, and navigation links like Home,Appointments,Sign Up and Login.(2 points) Task 16: Copy and paste the cURL command and its output, saved in the file named register, that registers the users.(1 point) Task 17: Copy and paste the cURL command and its output, saved in the file named login, that logs in the registered user.(1 point) Task 18: Submit the public GitHub repository URL of the AppointmentForm.jsx file, which must include fields for Name, Phone Number, Date and Time.(1 point) Task 19: Submit the public GitHub repository URL of the DoctorCard.jsx file, which must include cancel appointment logic.(1 point) Task 20: Upload a PDF named patient_report. pdf that contains patient information and prescription details. (2 points) Task 21: Upload the screenshot of the folder containing all the required images in .png format.(4 points)
+
+Follow the submission checklist below if you are proceeding with Option 2: Peer-Graded Submission and Evaluation:
+
+You will be graded as per the following rubric (30 points):
+
+Task 1: Upload the screenshot (named navbar_design.png) taken as part of Module 1 Lab: Designing Website Layouts.(2 points)
+
+Task 2: Upload the screenshot (named signup_form_design.png) taken as part of Module 1 lab: Designing Website Layouts.(2 points)
+
+Task 3: Upload the screenshot named login_form_design.png taken as part of Hands-on Lab: Designing Website Layouts.(2 points)
+
+Task 4: Upload the screenshot (named readme.md_file.png) taken as part of Module 2 Exercise 4: Create README.md file of Hands-on Lab: Create GitHub Repository for your Project.(1 point)
+
+Task 5: Upload the screenshot (named signup_validation.png) taken as part of Module 3 Lab: Convert Static Pages to Dynamic React Components, Exercise 2: Sign Up and Login Components.(1 point)
+
+Task 6: Upload the screenshot (named login_validation.png) taken as part of Module 3 Lab: Convert Static Pages to Dynamic React Components, Exercise 2: Sign Up and Login Components.(1 point)
+
+Task 7: Upload the screenshot (named logout_button.png) taken as part of Module 3 Lab: Convert Static Pages to Dynamic React Components, Exercise 3: Embed Code in Sign Up Page to Establish Backend Connectivity.(1 point)
+
+Task 8: Upload the screenshot (named docsearch_output.png) taken as part of Module 3 Lab: Build the Appointment Booking Component, Exercise 1: Create the FindDoctorSearch Component.(1 point)
+
+Task 9: Upload the screenshot (named notification_integration.png) taken as part of Module 4 Lab: Build the Notification Component, Exercise 2: Integrate the Notification component in your application.(1 point)
+
+Task 10: Upload the screenshot (named instant_consultation.png) taken as part of Module 3 Lab: Integrate Existing Functionality, Exercise 3: Integrate the Instant Consultation component.(1 point)
+
+Task 11: Upload the screenshot (named disable_review-button.png) taken as part of Module 4 Lab: Build the Reviews Component, Exercise 2: Implement the input element and rating selector.(1 point)
+
+Task 12: Upload the screenshot (named review_form.png) taken as part of Module 4 Lab: Build the Reviews Component, Exercise 2: Implement the input element and rating selector.(1 point)
+
+Task 13: Upload the screenshot (named profilename_change.png) taken as part of Module 4 Lab: Build the Profile Component, Exercise 2: Display the Profile Details.(1 point)
+
+Task 14: Upload the screenshot (named build.png) taken as part of Module 5 Lab: Build and Deploy the Website, Exercise 3: Create a Production Build.(1 point)
+
+Task 15: Upload the screenshot (named seo.png) taken as part of Module 5 Lab: Update Components and Redeploy the Website, Exercise 2: Version Control.(1 point)
+
+Task 16: Provide the link to your project repository.(8 points)
+
+Task 17: Provide the link to the screenshots folder in the GitHub repository.(4 points)
+
+Author(s)

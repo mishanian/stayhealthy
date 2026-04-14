@@ -1,0 +1,81 @@
+Final Project: Submission and Evaluation
+Latest attempt: No attempts yet
+See all attempts
+Begin
+Click to Begin
+About this assignment
+Assignment type
+Graded
+Time Limit
+Unlimited
+Estimated Time
+45 minutes
+Assignment attempts
+Unlimited
+Passing Grade
+70%
+In this project, you worked on designing and developing the front-end of a (fictitious) non-profit healthcare platform called StayHealthy, aimed at improving access to medical services in remote and underserved areas with limited healthcare infrastructure. As part of StayHealthy’s Go Digital initiative, the platform was envisioned to help patients connect with doctors anytime and from anywhere through a web-based solution.
+
+You were responsible for designing the user interface and user experience using Figma, ensuring accessibility, usability, and a patient-friendly layout. You developed static and responsive web pages using HTML, CSS, and React.js, focusing on clean design, responsiveness across devices, and an intuitive navigation flow.
+
+The application was structured as a modern front-end web solution and prepared for deployment to support StayHealthy’s broader mission of maximizing digital reach. Throughout the project, you followed front-end best practices, emphasized responsive design principles, and ensured the website was deployment-ready for future integration with back-end services.
+
+Instructions
+To complete this assignment successfully, follow these steps:
+
+Complete all tasks required for the Final project. Ensure all tasks are completed and your work is committed and saved in the corresponding files within the project's GitHub repository.
+Select 'Begin the Assignment' to get started.
+Read each question and submit your response by providing links/screenshots/text created for the project. 
+Once you've answered all the questions, select 'Submit assignment.'
+Review the feedback provided to understand your performance and areas for improvement. 
+
+
+Grading Criteria
+The assignment has criteria for 21 tasks, based on which you will be graded on an overall score of 30 points, which requires a minimum of 70% of marks to pass.
+
+
+
+Criteria:
+
+Task 1: Upload a screenshot named navbar_design.png that shows the elements of the Navigation Bar, including Appointment, Login, and Sign Up.(2 points)
+
+Task 2: Upload a screenshot named signup_form_design.png that shows the elements of the Sign-Up form, including Role, Name, Email, Phone, password, etc.(2 points)
+
+Task 3: Upload a screenshot named login_form_design.png that shows the Login form elements, including Email and Password.(2 points)
+
+Task 4: Submit the public GitHub URL of the README.md file that contains the project name details and setup instructions.(1 point)
+
+Task 5: Submit the public GitHub repository URL of the Sign_Up.jsx file that invokes the registration API to register a new user.(1 point)
+
+Task 6: Submit the public GitHub repository URL of the Login.jsx file that invokes the login authentication API to authenticate a user.(1 point)
+
+Task 7: Submit the public GitHub repository URL of the Navbar.jsx file that implements logout functionality.(1 point)
+
+Task 8: Submit the public GitHub repository URL of the FindDoctorSearch.jsx file that implements doctor search functionality in the Appointment Booking component.(1 point)
+
+Task 9: Submit the public GitHub repository URL of your App.jsx file showing the Notification component is integrated for application-wide visibility.(1 point)
+
+Task 10: Submit the public GitHub repository URL of your AppointmentFormIC.jsx file, which must include only the Name and Phone Number fields.(1 point)
+
+Task 11: Submit the public GitHub repository URL of your GiveReviews.jsx file that shows review form elements and post‑submission disabling behaviour. (2 points)
+
+Task 12: Submit the public GitHub repository URL of your ProfileCard.jsx file that shows the profile card UI and edit form.(1 point)
+
+Task 13: Please provide the terminal output, saved as build, showing the details of the production build.(1 point)
+
+Task 14: Submit the public GitHub repository URL of your index.html that shows SEO meta tags.(1 point)
+
+Task 15 : Upload a screenshot named launch.png that clearly displays the landing page of your project. The screenshot must include the deployment URL in the browser's address bar and must visibly showcase the project title , a brief description or tagline, and navigation links like Home,Appointments,Sign Up and Login.(2 points)
+
+Task 16: Copy and paste the cURL command and its output, saved in the file named register, that registers the users.(1 point)
+
+Task 17: Copy and paste the cURL command and its output, saved in the file named login, that logs in the registered user.(1 point)
+
+Task 18: Submit the public GitHub repository URL of the AppointmentForm.jsx file, which must include fields for Name, Phone Number, Date and Time.(1 point)
+
+Task 19: Submit the public GitHub repository URL of the DoctorCard.jsx file, which must include cancel appointment logic.(1 point)
+
+Task 20: Upload a PDF named patient_report.pdf that contains patient information and prescription details. (2 points)
+
+Task 21: Upload the screenshot of the folder named "screenshots" containing all the required images in .png format.(4 points)
+

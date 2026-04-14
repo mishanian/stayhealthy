@@ -1,0 +1,14 @@
+$ npm run build
+
+> stayhealthy@1.0.0 build
+> vite build
+
+vite v5.4.0 building for production...
+✓ 118 modules transformed.
+dist/index.html                   1.12 kB
+dist/assets/index-8ab12cde.css   28.64 kB
+dist/assets/index-a92ef190.js   214.38 kB
+✓ built in 2.41s
+
+NOTE:
+Replace this placeholder build output with your real terminal output before submission.
