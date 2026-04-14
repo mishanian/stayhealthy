@@ -1,44 +1,37 @@
-Replace each placeholder below with your real public GitHub URL.
+Replace YOUR_USERNAME and YOUR_REPO_NAME after uploading this project to GitHub.
 
-Task 4  README.md:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/README.md
+README.md
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/README.md
 
-Task 5  Sign_Up.jsx:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/src/pages/Sign_Up.jsx
+Sign_Up.jsx
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/src/components/Sign_Up.jsx
 
-Task 6  Login.jsx:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/src/pages/Login.jsx
+Login.jsx
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/src/components/Login.jsx
 
-Task 7  Navbar.jsx:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/src/components/Navbar.jsx
+Navbar.jsx
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/src/components/Navbar.jsx
 
-Task 8  FindDoctorSearch.jsx:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/src/components/FindDoctorSearch.jsx
+FindDoctorSearch.jsx
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/src/components/FindDoctorSearch.jsx
 
-Task 9  App.jsx:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/src/App.jsx
+App.jsx
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/src/App.jsx
 
-Task 10 AppointmentFormIC.jsx:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/src/components/AppointmentFormIC.jsx
+AppointmentFormIC.jsx
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/src/components/AppointmentFormIC.jsx
 
-Task 11 GiveReviews.jsx:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/src/components/GiveReviews.jsx
+GiveReviews.jsx
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/src/components/GiveReviews.jsx
 
-Task 12 ProfileCard.jsx:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/src/components/ProfileCard.jsx
+ProfileCard.jsx
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/src/components/ProfileCard.jsx
 
-Task 14 index.html:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/index.html
+index.html
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/index.html
 
-Task 18 AppointmentForm.jsx:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/src/components/AppointmentForm.jsx
+AppointmentForm.jsx
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/src/components/AppointmentForm.jsx
 
-Task 19 DoctorCard.jsx:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/src/components/DoctorCard.jsx
-
-Optional peer-graded links:
-Project repository:
-https://github.com/YOUR-USERNAME/YOUR-REPO
-
-Screenshots folder:
-https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/screenshots
+DoctorCard.jsx
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/src/components/DoctorCard.jsx

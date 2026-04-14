@@ -1,26 +1,48 @@
 # StayHealthy Front-End Capstone Project
 
-Prepared by: Mehran Ishanian
+**Author:** Mehran Ishanian
 
-## Project Overview
-StayHealthy is a front-end healthcare platform designed to help patients connect with doctors online. The application includes sign up, login, appointment booking, reviews, notifications, and profile management.
+StayHealthy is a React-based front-end healthcare platform designed to help patients connect with doctors, book appointments, sign up, log in, and manage reviews and profile details.
 
-## Main Features
-- Responsive navigation bar
-- User sign up and login
-- Appointment booking flow
-- Doctor search
-- Notification component
+## Features
+- Sign up and login forms with API integration
+- Navigation bar with logout functionality
+- Doctor search for appointment booking
+- Appointment booking forms
 - Instant consultation form
-- Reviews and ratings
-- Profile card and edit form
-- SEO-ready index.html
+- Notification component integrated app-wide
+- Reviews component with post-submission disabling
+- Profile card with editable profile details
+- SEO-friendly `index.html`
 
 ## Setup Instructions
 1. Clone the repository.
-2. Run `npm install`.
-3. Run `npm run dev` for development.
-4. Run `npm run build` for a production build.
+2. Open the project folder in your terminal.
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Build for production:
+   ```bash
+   npm run build
+   ```
 
-## Submission Notes
-This file is a template. Replace it with your real project README if needed.
+## Project Structure
+- `src/components/Sign_Up.jsx`
+- `src/components/Login.jsx`
+- `src/components/Navbar.jsx`
+- `src/components/FindDoctorSearch.jsx`
+- `src/components/AppointmentFormIC.jsx`
+- `src/components/GiveReviews.jsx`
+- `src/components/ProfileCard.jsx`
+- `src/components/AppointmentForm.jsx`
+- `src/components/DoctorCard.jsx`
+- `src/App.jsx`
+- `index.html`
+
+## Notes
+This project uses a mock API base URL. Replace it with your actual backend URL if required by your course.

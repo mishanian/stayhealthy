@@ -1,23 +1,12 @@
-curl -X POST https://your-api.example.com/api/auth/register \
+curl -X POST https://jsonplaceholder.typicode.com/users \
   -H "Content-Type: application/json" \
-  -d '{
-    "role":"patient",
-    "name":"Mehran Ishanian",
-    "email":"mehran@example.com",
-    "phone":"514-555-0198",
-    "password":"ExamplePass123!"
-  }'
+  -d '{"role":"Patient","name":"Mehran Ishanian","email":"mehran@example.com","phone":"5145550101","password":"Password123"}'
 
-Sample output:
 {
-  "success": true,
-  "message": "User registered successfully",
-  "user": {
-    "name": "Mehran Ishanian",
-    "email": "mehran@example.com",
-    "role": "patient"
-  }
+  "role": "Patient",
+  "name": "Mehran Ishanian",
+  "email": "mehran@example.com",
+  "phone": "5145550101",
+  "password": "Password123",
+  "id": 11
 }
-
-IMPORTANT:
-Replace the URL, payload, and output with your real cURL command and real API response.
